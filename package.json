@@ -1,0 +1,29 @@
+{
+  "name": "gefina",
+  "version": "1.0.0",
+  "description": "Sistema de gestão de contas a receber.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariaiaridias/gefina.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mariaiaridias/gefina/issues"
+  },
+  "homepage": "https://github.com/mariaiaridias/gefina#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15"
+  },
+  "dependencies": {
+    "esbuild": "^0.28.2",
+    "undici-types": "^8.9.0"
+  }
+}
